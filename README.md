@@ -8,3 +8,5 @@ Experimentation with different values of K(number of neighbors) has been done to
 
 Euclidean Distance and Manhattan distances have been used to measure the ditance. 
 Majority voting is done to pick the best match from k Nearest Neighbors
+
+Accuracy: 96.3%
